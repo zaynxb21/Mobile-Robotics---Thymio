@@ -1,0 +1,21 @@
+"""
+Constants.py
+
+Constants for the programme overall
+"""
+
+THYMIO_ID = 4
+GOAL_ID = 0
+CAMERA_ID = 0
+THYMIO_SIZE = 130
+V_TRESH = 180
+THRESHOLD_TO_GOAL = 40
+
+TOP_LEFT_MARKER = 13
+TOP_RIGHT_MARKER = 11
+BOTTOM_LEFT_MARKER = 10
+BOTTOM_RIGHT_MARKER = 12
+
+FPS = 32.0
+
+Ts = 0.3
